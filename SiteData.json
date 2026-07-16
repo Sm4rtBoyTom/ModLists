@@ -76,7 +76,7 @@
 		},
 		"ChooseStartingConditions":
 		{
-			"broken":true
+			"broken":false
 		},
 		"ChooseStartingLocation":
 		{
@@ -116,7 +116,7 @@
 		},
 		"Leatherworks":
 		{
-			"broken":true
+			"broken":false
 		},
 		"LimitlessContainerSpace": 
 		{
